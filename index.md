@@ -15,7 +15,7 @@ The iceberg was a [growler](http://www.athropolis.com/arctic-facts/fact-bergy-bi
 
 ##The passengers
 
-The iceburg killed all but 886/713/706 of the 2,229/2,223/2,228 people aboard the Titanic.
+The iceburg killed all but 886/713/706 of the 2,229/2,223/1,300 people aboard the Titanic.
 1,517 died. Some of the most noted and famous passengers were:
 
 1. John Jacob Astor (The richest man at the time)
@@ -25,3 +25,13 @@ The iceburg killed all but 886/713/706 of the 2,229/2,223/2,228 people aboard th
 3. Harper Sleeper
 
 4. Molly Brown
+
+There were approximately 128/112 children on the titanic. About 56 of these children survived (50%), the other 56 or so died.
+
+1. 324 women survived (75%) 110 died.
+
+2. 323 men survived (19%) 1357 died.
+
+3. 703 staff (23%) 1526 died.
+
+4.  37% of the passengers survived, 32% of the people on board the Titanic survived.
