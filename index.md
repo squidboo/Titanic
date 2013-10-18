@@ -7,7 +7,9 @@ title: The Titanic
 
 ##Dates for your diary
 
-Thought of in 1907, the Titanic was not made until the 31st of March, 1909 in Belfast, Ireland. The construction of the Titanic went on for 3 years, ending on the 31st of May, 1911. The Titanic was supposedly indestructible, Setting sail on Wednesday the 10th of April 1912, from Southampton. 
+![The Titanic](images/titanic/RMS_Titanic_3.jpg)
+
+Though thought of in 1907, the Titanic was not made until the 31st of March, 1909 in Belfast, Ireland. The construction of the Titanic went on for 3 years, ending on the 31st of May, 1911. The Titanic was supposedly indestructible, Setting sail on Wednesday the 10th of April 1912, from Southampton. 
 
 ##The Iceberg
  
@@ -34,6 +36,8 @@ There were approximately 128/112 children on the titanic. About 56 of these chil
 
 2. 323 men survived (19%) 1357 died.
 
-3. 703 staff (23%) 1526 died.
+3. 703 staff survived (23%) 1526 died.
 
-4.  37% of the passengers survived, 32% of the people on board the Titanic survived.
+4.  37% of the passengers survived (not including staff).  
+  
+5.  32% of the people on board the Titanic survived.
