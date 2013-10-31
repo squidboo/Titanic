@@ -19,8 +19,15 @@ The iceberg was a [growler](http://www.athropolis.com/arctic-facts/fact-bergy-bi
 
 ![Ticket for the Titanic](images/titanic/546249-titanic-auction.jpg)
 
-The iceberg killed all but 886/713/706 of the 2,229/2,223/1,300 people aboard the Titanic.
-1,517 died. Some of the most noted and famous passengers were:
+There are varied thoughts about how many people the iceberg killed. Here are a few:
+
+1. 886
+ 
+2. 713
+
+3. 706
+We also don't know for certain how many people there were on board at the time. Some of the guesses are: 2,229, 2,223, 1,300 people aboard the Titanic.1,517 (or so) died.
+Some of the most noted and famous passengers were:
 
 1. John Jacob Astor (The richest man at the time)
 
