@@ -53,6 +53,12 @@ There were approximately 112 children on the titanic. About 56 of these children
   
 5.  32% of the people on board the Titanic survived.
 
+## Titanic Ahoy!
+
+![Titanic pictures underwater](http://3.bp.blogspot.com/-nGyZ6iLCO4s/T6JZVny2IoI/AAAAAAAAAJ8/HsSA1eUDcNU/s1600/07.jpg)
+
+On 14th July, 1985 the H.M.S Titanic was discovered by Robert Ballad after 12 years of searching. The Titanic had been found! He and his crew had been looking where many people belived she laid - Boxhall's point. Luckily they searched further afield and spotted her!  
+
 ## Sources
 
  * [Wikipedia page on RMS Titanic](http://en.wikipedia.org/wiki/RMS_Titanic)
