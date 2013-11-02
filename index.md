@@ -19,6 +19,8 @@ The iceberg was a [growler](http://www.athropolis.com/arctic-facts/fact-bergy-bi
 
 ![Ticket for the Titanic](images/titanic/546249-titanic-auction.jpg)
 
+ Ticket for the Titanic
+
 There are varied thoughts about how many people the iceberg killed. Here are a few:
 
 1. 886
@@ -27,19 +29,19 @@ There are varied thoughts about how many people the iceberg killed. Here are a f
 
 3. 706
 
-We also don't know for certain how many people there were on board at the time. Some of the guesses are: 2,229, 2,223, 1,300 people aboard the Titanic.1,517 (or so) died.
+We also don't know for certain how many people there were on board at the time. Some of the guesses are: 2,229, 2,223 or 1,300. 1,517 (or so) died.
 
 Some of the most noted and famous passengers were:
 
 1. John Jacob Astor (The richest man at the time)
 
-2. Ida & Isidor Straus (co-owner of Macy's building in New York)
+2. Ida & Isidor Straus (Isidor Straus was co-owner of Macy's building in New York)
 
-3. Harper Sleeper
+3. Henry Sleeper Harper  (He and his dog survived)
 
-4. Molly Brown
+4. Molly Brown (Who survived the accident)  
 
-There were approximately 128/112 children on the titanic. About 56 of these children survived (50%), the other 56 or so died.
+There were approximately 112 children on the titanic. About 56 of these children survived (50%), the other 56 or so died. Here are the numbers of people who survived the incident:
 
 1. 324 women survived (75%) 110 died.
 
@@ -50,3 +52,15 @@ There were approximately 128/112 children on the titanic. About 56 of these chil
 4.  37% of the passengers survived (not including staff).  
   
 5.  32% of the people on board the Titanic survived.
+
+## Sources
+
+ * [Wikipedia page on RMS Titanic](http://en.wikipedia.org/wiki/RMS_Titanic)
+ 
+ * [Encyclopedia Titanic](http://www.encyclopedia-titanica.org/)
+ 
+ * [Titanic Demographics](http://www.icyousee.org/titanic.html)
+ 
+ * [10 facts about The Titanic you don't know](http://history1900s.about.com/od/1910s/a/titanicfacts.htm)
+ 
+ * [Ask us anything - The Titanic](http://wiki.answers.com/Q/Who_was_the_passengers_on_the_Titanic)
