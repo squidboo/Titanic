@@ -63,7 +63,7 @@ On 14th July, 1985 the H.M.S Titanic was discovered by Robert Ballad after 12 ye
 
  * [Wikipedia page on RMS Titanic](http://en.wikipedia.org/wiki/RMS_Titanic)
  
- * [Encyclopedia Titanic](http://www.encyclopedia-titanica.org/)
+ * [Encyclopedia Titanica](http://www.encyclopedia-titanica.org/)
  
  * [Titanic Demographics](http://www.icyousee.org/titanic.html)
  
