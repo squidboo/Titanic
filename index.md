@@ -59,6 +59,10 @@ There were approximately 112 children on the titanic. About 56 of these children
 
 On 14th July, 1985 the H.M.S Titanic was discovered by Robert Ballad after 12 years of searching. The Titanic had been found! He and his crew had been looking where many people belived she laid - Boxhall's point. Luckily they searched further afield and spotted her!  
 
+## Titanic in Minecraft
+
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/82wAnygPu3c?rel=0" frameborder="0" allowfullscreen></iframe>
+
 ## Sources
 
  * [Wikipedia page on RMS Titanic](http://en.wikipedia.org/wiki/RMS_Titanic)
