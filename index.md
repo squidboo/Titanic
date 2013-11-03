@@ -61,6 +61,8 @@ On 14th July, 1985 the H.M.S Titanic was discovered by Robert Ballad after 12 ye
 
 ## Titanic in Minecraft
 
+This is a clip of a model of the Titanic that I made in Minecraft.
+
 <iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/82wAnygPu3c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Sources
